@@ -3,6 +3,10 @@
 ## Overview
 This project explores a credit application dataset using Python to identify patterns and relationships within the data. The analysis uses data visualization to examine debt across different demographic and employment groups.
 
+### Live Project
+
+[View the full Credit Data Analysis](https://baigfizza.github.io/Credit-Data-Analysis-with-Python/)
+
 ## Analysis
 The project includes:
 
